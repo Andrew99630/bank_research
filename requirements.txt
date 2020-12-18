@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly
+sklearn
+collections
+pymystem3(for lemmatization) - https://pypi.org/project/pymystem3/
